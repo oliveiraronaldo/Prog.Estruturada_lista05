@@ -6,7 +6,7 @@
 int main(int argc, char const *argv[])
 {
     srand(time(NULL));
-
+    
     int vetor[5];
     int vetor_cubo[5];
 
